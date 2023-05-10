@@ -1,0 +1,3 @@
+pip install git+https://github.com/LIAAD/kep
+pip install git+https://github.com/boudinfl/pke
+pip install git+https://github.com/LIAAD/yake.git

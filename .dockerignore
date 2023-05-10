@@ -1,0 +1,20 @@
+.git
+__pycache__
+apicache-py3
+.ipynb_checkpoints
+*.ipynb
+
+dist
+build
+*.swp
+*.pyc
+*egg/
+*egg-info/
+
+kwp_extraction/dbpedia/eval/data
+docs
+dbpedia_eval
+data
+out
+# **/stanford-corenlp*
+# /auxiliary_data/elmo*
